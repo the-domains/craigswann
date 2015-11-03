@@ -1,23 +1,35 @@
-name: CraigSwann
-favicon: null
 layout_spectrum: 0.3349966856185347
-typography_spectrum: 0.40003831102512777
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.35014788527041674
-  lightness: 0.12636155146174133
-  saturation: 0.9226618795655668
-  rhythmicContrast: 0.7180391966830939
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9226619
+  brandStrength: 0.3501478852704167
+  lightness: 0.4551971
+  brandColors: []
+  rhythmicContrast: 0.7180392
+typography_spectrum: 0.07706093
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: CraigSwann
