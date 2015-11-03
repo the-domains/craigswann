@@ -1,0 +1,23 @@
+name: CraigSwann
+favicon: null
+layout_spectrum: 0.3349966856185347
+typography_spectrum: 0.40003831102512777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.35014788527041674
+  lightness: 0.12636155146174133
+  saturation: 0.9226618795655668
+  rhythmicContrast: 0.7180391966830939
+purpose: []
