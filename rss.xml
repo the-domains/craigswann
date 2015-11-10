@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CraigSwann]]></title>
-        <description><![CDATA[CraigSwann]]></description>
+        <title><![CDATA[Digital Dim-Sum]]></title>
+        <description><![CDATA[Digital Dim-Sum]]></description>
         <link>https://thegrid.ai/craigswann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 16:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2015 17:08:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/craigswann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creative Cross-Pollination]]></title>
+            <description><![CDATA[<h1>Creative Cross-Pollination</h1>]]></description>
+            <link>https://thegrid.ai/craigswann/creative-cross-pollination/index.html</link>
+            <guid isPermaLink="false">b13dba77-b45a-4fce-a26b-78bc20b4ee78</guid>
+            <pubDate>Tue, 10 Nov 2015 17:07:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don't Chase Money]]></title>
             <description><![CDATA[<h1>Don't Chase Money</h1>]]></description>
