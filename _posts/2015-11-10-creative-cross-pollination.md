@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-10T17:07:19.338Z'
-dateModified: '2015-11-10T17:06:58.757Z'
+datePublished: '2015-11-10T17:15:48.858Z'
+dateModified: '2015-11-10T17:15:34.936Z'
 title: Creative Cross-Pollination
+sourcePath: _posts/2015-11-10-creative-cross-pollination.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-10-creative-cross-pollination.md
-published: true
 url: creative-cross-pollination/index.html
 _type: Article
 
 ---
 # Creative Cross-Pollination
+
+http://www.rappnews.com/wp-content/uploads/2010/06/r\_RiverDistrictArts1-17WEB.jpg
 
 Creativity is not picky. It spans across every art, business and industry. Across all languages, locations and walks of life. Creativity is a primal element of humanity - existing everywhere you look. Too often, however, much of the inspiration that we may look for comes from the same vertical we are in. We silo ourselves off from much of the world's creativity and how it can apply to us. If we are a furniture maker it is likely that we look to trade magazines, exhibitions and the latest up and comers to see what is fresh, what is happening, and what is new with creativity in our field. There is nothing wrong with this. IT's an important part of running a business and staying on top of things. But is misses the larger opportunity. The opportunity of differentiation.
 
